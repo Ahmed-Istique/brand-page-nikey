@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The universal CSS */
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+
+/* overflow-x: This property controls the overflow behavior on the horizontal axis. Setting it to hidden means that any content that overflows horizontally will be hidden, and the user won't be able to scroll horizontally. */
+
+
+
+
+body::-webkit-scrollbar{
+  display: none;
+}
+

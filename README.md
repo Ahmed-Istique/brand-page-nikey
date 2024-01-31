@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 Visit the website:
 https://brand-page-nikey.vercel.app/
+![image](https://github.com/Ahmed-Istique/brand-page-nikey/assets/138990685/4887282d-fb43-4c32-97f5-706578b1a604)
